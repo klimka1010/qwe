@@ -7,7 +7,7 @@
 
   <style>
    body {
-    background-image: url(qwe.png); /* Путь к фоновому изображению */
+    background-image: url(qwe.jpg); /* Путь к фоновому изображению */
     background-attachment: fixed; /* Фиксируем фон веб-страницы */
    }
   </style>
@@ -52,7 +52,6 @@
 
 <br><br>
 
-<body background="qwe.jpg">
 
 <body text="WHITE">
 
