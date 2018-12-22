@@ -7,7 +7,7 @@
 
   <style>
    body {
-    background-image: url(images/help.png); /* Путь к фоновому изображению */
+    background-image: url(qwe.png); /* Путь к фоновому изображению */
     background-attachment: fixed; /* Фиксируем фон веб-страницы */
    }
   </style>
