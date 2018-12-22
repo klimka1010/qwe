@@ -27,7 +27,7 @@ alert(name);
 
 <h1 align="center"> Японская кухня</h1>
 
-<a href="susi.html"><p align="center"><img src="sushi.jpg" alt="Японская кухня"></p></a>
+<a href="susi.html"><p align="center"><img src="susi.jpg" alt="Японская кухня"></p></a>
 
 <br><br>
 
