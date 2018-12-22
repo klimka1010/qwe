@@ -5,10 +5,17 @@
 
 <meta charset="utf-8">
 
+  <style>
+   body {
+    background-image: url(images/help.png); /* Путь к фоновому изображению */
+    background-attachment: fixed; /* Фиксируем фон веб-страницы */
+   }
+  </style>
+  
 </HEAD>
 
 <BODY>
-
+ <div style="height:2000px">
  <title>БИЗНЕС МЕН</title>
 
 <script type="text/javascript">
@@ -49,4 +56,5 @@
 
 <body text="WHITE">
 
+  </div>
 </BODY>	
